@@ -1,0 +1,9 @@
+{
+  "Releases": [
+    {
+      "Id": "LowFPS",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/tjwogud/LowFPS/releases/download/v1.0.0/LowFPS.zip"
+    }
+  ]
+}
